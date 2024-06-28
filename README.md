@@ -12,6 +12,7 @@ A responsive landing page with smooth animations and interactive elements, built
 
 https://github.com/rohazshaik07/Landing-Page/assets/173455762/4a6631cb-7077-41c6-828c-21db670aaeb6
 
+**Check my project here :** https://landingpage-rohaz.netlify.app
 
 ## 🚀 About Me
 I'm a Web developer...
